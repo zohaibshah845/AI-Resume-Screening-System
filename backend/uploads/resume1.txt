@@ -1,0 +1,29 @@
+John Doe
+Email: john.doe@example.com | Phone: (555) 123-4567 | GitHub: github.com/johndoe
+
+SUMMARY
+Experienced Python Developer with 4+ years of expertise in backend development, REST APIs, and database management. Passionate about building scalable applications and implementing machine learning solutions.
+
+SKILLS
+Languages: Python, JavaScript, SQL
+Frameworks: Flask, Django, FastAPI
+Tools: Git, Docker, PostgreSQL, MongoDB
+Other: REST APIs, Pandas, NumPy, Scikit-learn
+
+EXPERIENCE
+Senior Python Developer | Tech Solutions Inc. (2022–Present)
+- Developed RESTful APIs using Flask, serving 10k+ requests daily.
+- Integrated PostgreSQL and MongoDB for data persistence.
+- Reduced API response time by 30% through query optimization.
+
+Python Developer | CodeLabs (2020–2022)
+- Built data processing pipelines with Pandas and NumPy.
+- Collaborated with frontend team to integrate React frontend with Django backend.
+- Wrote unit tests using pytest, achieving 85% code coverage.
+
+EDUCATION
+B.Sc. in Computer Science | University of Technology (2016–2020)
+
+CERTIFICATIONS
+- Python Institute PCEP
+- AWS Certified Cloud Practitioner

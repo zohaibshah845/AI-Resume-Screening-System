@@ -1,0 +1,31 @@
+Name: Carla Martinez
+Email: carla.m@example.com
+
+EDUCATION
+B.Sc. in Computer Science, University of Texas, CGPA: 3.6/4.0
+
+TECHNICAL SKILLS
+- Programming: Python, JavaScript, C++
+- Frameworks: Flask, Express.js
+- Databases: PostgreSQL, Firebase
+- Tools: Postman, Git, VS Code
+
+WORK EXPERIENCE
+Full Stack Developer | WebSolutions (2022–Present)
+- Created RESTful APIs using Flask for a customer feedback system.
+- Integrated with PostgreSQL and wrote efficient database queries.
+- Implemented token‑based authentication and API documentation (Swagger).
+
+Associate Developer | TechStart (2020–2022)
+- Assisted in developing Flask endpoints for a booking system.
+- Performed database migrations and optimized slow queries.
+
+RELEVANT COURSES
+- Database Management Systems (A grade)
+- Web Development with Python (A grade)
+
+PROJECTS
+- Library Management API: Flask + SQLAlchemy + JWT.
+- Real‑time chat app using Flask‑SocketIO.
+
+CGPA: 3.6 (Dean's List)

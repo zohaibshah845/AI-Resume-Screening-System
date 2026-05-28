@@ -1,0 +1,30 @@
+Jane Smith
+Email: jane.smith@datawise.com | LinkedIn: linkedin.com/in/janesmith
+
+PROFESSIONAL SUMMARY
+Data Scientist with 3 years of experience in machine learning, statistical analysis, and NLP. Proven ability to extract insights from large datasets and build predictive models.
+
+TECHNICAL SKILLS
+- Languages: Python, R, SQL
+- ML Libraries: Scikit-learn, TensorFlow, PyTorch, NLTK
+- Data Tools: Pandas, NumPy, Matplotlib, Seaborn
+- Big Data: Spark, Hadoop
+- Databases: MySQL, PostgreSQL
+
+WORK EXPERIENCE
+Data Scientist | Analytics Corp (2021–Present)
+- Developed a resume screening model using TF‑IDF and cosine similarity, improving hiring efficiency by 40%.
+- Built an NLP pipeline to extract skills and experience from job descriptions.
+- Deployed models as REST APIs using Flask.
+
+Junior Data Scientist | DataInsights (2020–2021)
+- Created visualizations and dashboards using Matplotlib and Tableau.
+- Performed data cleaning and exploratory data analysis on 1M+ records.
+
+PROJECTS
+- Resume Ranker: Built a Flask app that ranks resumes against a job description using TF‑IDF vectorization.
+- Sentiment Analysis: Used NLTK and Scikit-learn to classify product reviews.
+
+EDUCATION
+M.Sc. in Data Science | University of InfoTech (2018–2020)
+B.E. in Computer Engineering | State University (2014–2018)

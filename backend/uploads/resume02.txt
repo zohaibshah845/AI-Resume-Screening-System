@@ -1,0 +1,26 @@
+Name: Brian Lee
+Email: brian.lee@example.com
+
+EDUCATION
+B.Tech in Computer Science, Georgia Tech, CGPA: 3.7/4.0
+
+SKILLS
+Python, Flask, REST API development, SQL (MySQL, SQLite), MongoDB, Git, Linux
+
+EXPERIENCE
+Python Developer | StartupHub (2021–Present)
+- Designed and deployed RESTful APIs using Flask and Flask‑RESTful.
+- Managed PostgreSQL databases, wrote complex queries and optimized indexes.
+- Collaborated with frontend team to integrate React with backend services.
+
+Junior Developer | CodeLab (2019–2021)
+- Maintained existing Flask applications and added new endpoints.
+- Refactored database models and improved query performance by 30%.
+
+INTERNSHIP
+Backend Intern | CloudSys (Summer 2018)
+- Assisted in building a REST API for user management using Flask.
+
+ACHIEVEMENTS
+- Winner of University Hackathon 2020 – Best Use of Flask.
+- CGPA > 3.5 throughout all semesters.
