@@ -49,12 +49,7 @@ Prerequisites
 . Python (3.8+)
 . Firebase account (optional)
 
-Environment variables
-Create a .env file in backend/ (optional, for Firebase):
-  FIREBASE_CREDENTIALS_PATH=firebase-adminsdk.json
-Do not commit the actual firebase-adminsdk.json file. Add it to .gitignore.
 
-Quick start
 
 Backend (Flask API)
   cd backend
